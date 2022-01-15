@@ -92,11 +92,11 @@ img {
   text-decoration: none;
 }
 
-.logo .part-1 {
+.logo .part-a {
   color: var(--accent-color);
 }
 
-.logo .part-2 {
+.logo .part-b {
   color: var(--primary-black-color);
 }
 
@@ -457,6 +457,7 @@ img {
 .footer {
   background-color: var(--hero-background-color);
   padding-bottom: 60px;
+  padding-top: 60px;
 }
 
 .footer .list {
@@ -476,7 +477,7 @@ img {
   margin-top: 9px;
 }
 
-.logo .part-3 {
+.logo .part-c {
   color: var(--primary-white-color);
 }
 
@@ -513,10 +514,6 @@ img {
 
 .joinus-links {
   margin-left: 70px;
-}
-
-.footer-part1 {
-  margin-top: 60px;
 }
 
 .footer .social-links-set {
